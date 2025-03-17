@@ -29,4 +29,10 @@
     "tmp",
     "venv",
     "txt_files"
+
+    ,
+    "backend",
+    "netlify",
+    "plots_level2",
+    "plots_level3",
 ]

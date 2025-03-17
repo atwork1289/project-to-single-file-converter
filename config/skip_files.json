@@ -3,5 +3,9 @@
     "config_default.py",
     "manage.py",
     "package.json",
-    "package-lock.json"
+    "package-lock.json",
+    "eslint",
+    "gitignore",
+    "jsconfig.json",
+    "jsconfig.json",
 ]
